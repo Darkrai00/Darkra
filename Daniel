@@ -1,0 +1,31 @@
+mport java.util.Scanner;
+public class Romeproject1 {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Perfomance Task");
+        System.out.println("Enter 1st Activity:");
+        int x = input.nextInt();
+        System.out.println("Enter 2nd Activity:");
+        int y = input.nextInt();
+        System.out.println("Enter 3rd Activity");
+        int z = input.nextInt();   
+
+
+        int sum;
+        sum = x + y + z;
+        float qout;
+        qout = sum / 3;
+
+
+        System.out.println("Average is:" + qout );
+
+
+
+
+
+
+
+
+    }
+}
