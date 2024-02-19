@@ -1,5 +1,5 @@
-mport java.util.Scanner;
-public class Romeproject1 {
+import java.util.Scanner;
+public class Dkaproject1 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
